@@ -3,18 +3,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dat.sem3.oas</groupId>
-    <artifactId>course-assignment-2</artifactId>
+    <artifactId>EksamTestOpg1_Backend</artifactId>
     <version>1.0.1</version>
     <packaging>war</packaging>
 
-    <name>course-assignment-2</name>
+    <name>EksamTestOpg1_Backend</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         
         <!-- TODO: Add the URL to your own tomcat server. Used to deploy your WAR-file -->
-        <remote.server>https://www.simonskodebiks.com/manager/text</remote.server>
+        <remote.server>https://www.mukh.dk/manager/text</remote.server>
         
     </properties>
     
